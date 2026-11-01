@@ -1,0 +1,23 @@
+{
+  "name": "aplikasi-prakiraan-cuaca",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "serve": "vite --port 8100",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ionic/vue": "^8.0.0",
+    "@ionic/vue-router": "^8.0.0",
+    "ionicons": "^7.4.0",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
+  }
+}
